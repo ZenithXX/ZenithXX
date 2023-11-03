@@ -12,16 +12,10 @@
 <br clear="both">
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,c#,dotnet,html,js,mongodb,nodejs,py,vscode,visualstudio&perline=10" />
+    <img src="https://skillicons.dev/icons?i=unity,csharp,dotnet,html,js,mongodb,nodejs,py,vscode,visualstudio&perline=10" />
   </a>
 </p>
 
