@@ -19,26 +19,15 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,js,linux,mongodb,nodejs,py,vscode,visualstudio&perline=8" />
+    <img src="https://skillicons.dev/icons?i=unity,c#,dotnet,html,js,mongodb,nodejs,py,vscode,visualstudio&perline=10" />
   </a>
 </p>
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Contact me</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="http://discordapp.com/users/408995873587068928" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
-</p>
+<a href="https://www.discordapp.com/users/408995873587068928" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 
 
   
