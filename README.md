@@ -1,4 +1,4 @@
-<h1 align="left">Hey there, world! 🌟 I'm Zenith</h1>
+<h1 align="left">Hello world! 🌟 I'm Junior</h1>
 
 ###
 
